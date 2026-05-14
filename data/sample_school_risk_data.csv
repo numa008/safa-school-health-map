@@ -1,0 +1,5 @@
+school_id,school_name,district,latitude,longitude,distance_to_landfill_km,open_burning_reports,visible_waste_nearby,waste_collection_gap,school_waste_practice,risk_score,risk_category
+S001,Sample School A,Kathmandu,27.7000,85.3000,1.2,5,High,High,Basic,82,Critical
+S002,Sample School B,Nuwakot,27.7800,85.2100,2.8,3,Medium,Medium,Basic,67,High
+S003,Sample School C,Lalitpur,27.6600,85.3200,8.5,1,Low,Low,Improving,31,Medium
+S004,Sample School D,Kathmandu,27.7200,85.3500,12.0,0,Low,Low,Good,18,Low
